@@ -1,0 +1,58 @@
+body{
+ 
+    background:linear-gradient( rgb(53, 25, 208), rgb(80, 85, 227), rgb(82, 56, 212),rgb(105, 113, 213) );
+    background-repeat:no-repeat ;
+    height: 100%;
+    margin: 0;
+  background-attachment: fixed ;
+}
+h1{
+    color: rgb(255, 255, 255);
+   background-color: rgb(7, 19, 88);
+    font-size: 70px;
+}
+h2{
+   color: rgb(255, 255, 255);
+    font-size:40px ;
+}
+p{
+   color: rgb(255, 255, 255);
+    font-size:23px ;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+li{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.cajita{
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgb(52, 67, 117);
+    padding: 10px;
+    margin: 30px;
+    width: 90%;
+    
+}
+.imgen-marco{
+    border-width: 10px;
+    border-color: rgb(5, 6, 94);
+    border-style: ridge;
+    border-radius: 1opx;
+    text-align: center;
+    
+    
+}
+.centro{
+    text-align: center;
+    color: rgb(214, 215, 215);
+    font-size: 25px;
+}

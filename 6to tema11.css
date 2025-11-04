@@ -1,0 +1,53 @@
+body{
+ 
+    background:linear-gradient( rgb(5, 22, 80), rgb(101, 105, 224), rgb(82, 56, 212),rgb(95, 103, 216) );
+    background-repeat:no-repeat ;
+    height: 100%;
+    margin: 0; background-attachment: fixed ;
+}
+
+  h1{
+    color: rgb(255, 255, 255);
+   background-color: rgb(10, 25, 120);
+    font-size: 70px;
+}
+h2{
+   color: rgb(255, 255, 255);
+    font-size:40px ;
+}
+p{
+   color: rgb(255, 255, 255);
+    font-size:23px ;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+li{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.cajita{
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgb(44, 23, 168);
+    padding: 10px;
+    margin: 30px;
+    width: 90%;
+    
+}
+.imgen-marco{
+    border-width: 10px;
+    border-color: rgb(11, 20, 66);
+    border-style: ridge;
+    border-radius: 1opx;
+    text-align: center;
+    
+    
+}
