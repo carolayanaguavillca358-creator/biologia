@@ -1,0 +1,54 @@
+body{
+    background-image: url(fondo.jpeg );
+    background-size:cover;
+    background-position:center;
+    background-repeat: repeat;
+    height: 100vh;
+    margin: 0;
+    }
+h1{
+    color: rgb(15, 52, 10);
+    background-color: rgb(87, 143, 111);
+    font-size: 75px;
+}
+h2{
+  color: rgb(8, 63, 4);
+  
+}
+menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+
+}
+ol{
+  list-style: decimal;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:0;
+  margin:0;
+}
+
+li{
+  background-color: white;
+  border: 2px;
+  border-radius: 15px;
+  width: 400px;
+  padding: 10px;
+  margin: 05px;
+  color: rgb(32, 119, 90);
+  font-weight: bold;
+  box-shadow: 4px;
+}
+ 
+.imagen{
+  width: 230px;          
+  height: 130px;         
+  border-radius: 50%;    
+  object-fit: cover;      
+  border: 3px solid rgb(3, 49, 43); 
+ 
+}
+
